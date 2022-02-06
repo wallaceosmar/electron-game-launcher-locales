@@ -1,0 +1,32 @@
+{
+  "game": {
+    "game": "Game",
+    "recent": "Recent",
+    "owned": "Owned Games",
+    "installed": "Installed",
+    "add": "Add Game",
+    "info": "Info",
+    "media": "Media",
+    "title": "Title",
+    "cover": "Cover",
+    "background": "Background",
+    "icon": "Icon",
+    "sortingTitle":"Sorting Title"
+  },
+  "recent": {
+    "recentplayed": "Recent Played by Me",
+    "randomGame": "Random Game"
+  },
+  "button": {
+    "cancel": "cancel",
+    "ok": "Ok"
+  },
+  "settings": {
+    "settings": "Settings",
+    "client": "EGL Client",
+    "general": {
+      "label": "General",
+      "language": "Language"
+    }
+  }
+}
