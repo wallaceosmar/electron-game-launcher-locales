@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "settings": "settings.settings",
+    "client": "settings.client",
+    "general": {
+      "label": "settings.general.label",
+      "language": "settings.general.language"
+    }
+  },
+  "game": {
+    "add": "game.add",
+    "info": "game.info",
+    "media": "game.media",
+    "title": "game.title",
+    "sortingTitle": "game.sortingTitle",
+    "cover": "game.cover",
+    "background": "game.background",
+    "icon": "game.icon",
+    "game": "game.game",
+    "recent": "game.recent",
+    "owned": "game.owned",
+    "installed": "game.installed"
+  },
+  "button": {
+    "cancel": "button.cancel",
+    "ok": "button.ok"
+  },
+  "recent": {
+    "recentplayed": "recent.recentplayed",
+    "randomGame": "recent.randomGame"
+  }
+}
